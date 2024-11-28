@@ -1,5 +1,3 @@
-from tomlkit import value
-
 from get_input import get_input
 
 def evaluate(wire, instructions, cache):
